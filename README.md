@@ -40,8 +40,8 @@ Proyek aplikasi Android berbasis **Jetpack Compose** untuk praktikum mata kuliah
 ## 📷 Hasil Running Aplikasi
 
 | Tampilan Form Input | Hasil Submit Biodata |
-| :---: | :---: |
-| <img src="screenshots/form_input.png" alt="Form Input" width="300"/> | <img src="screenshots/submit_result.png" alt="Submit Result" width="300"/> |
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/1f6795dc-aeff-4f3a-ac3b-311e17c4032c" />
 
 > **Catatan:** Tangkapan layar (*screenshot*) di atas dapat diperbarui langsung melalui emulator Android Studio / device fisik dan disimpan di folder `screenshots/` atau diunggah langsung ke README GitHub.
 
